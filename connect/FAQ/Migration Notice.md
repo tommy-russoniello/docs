@@ -6,12 +6,14 @@ There are two major changes that we want to make you aware of before we make the
  
 ## 1. Business Model Changes – A new way to manage your license
  
-Current Model
+Current Model  
+
 * Gold Subscription at $9.99/month
 * License Subscription at $14.99/month
 * +$4.99/month for each additional channel whitelist on your license
  
-New Model
+New Model  
+
 * Gold Membership Subscription at $4.99/month
 * YouTube Whitelist at $9.99/month OR $200 for 20 months coverage 
 * Twitch Whitelist at $4.99/month OR $100 for 20 months coverage
@@ -21,11 +23,13 @@ You now have the freedom of choice for which products you would like to use. Thi
  
 ## 2. Visual Changes – A new way to use Connect
  
-Current Use
+Current Use  
+
 * Account only platform access through connect.monstercat.com
 * Non subscribers have limited access to our catalog on Monstercat.com
- 
-New Use
+
+New Use  
+
 * Open Platform Access for streaming only through Monstercat.com
 * Full features for subscribers available after login
  
