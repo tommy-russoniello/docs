@@ -60,6 +60,7 @@ The PayPal API does not allow us to modify your payment period or give you free 
 **What does this mean for extra credit?**
 
 Due to the complexities and required maintenance we have decided to discontinue the extra credit referral system. If you have credit please contact connect@monstercat.com
+
 **What is the coupon good for?**
 
 The coupon is only redeemable for the Gold Membership subscription.
