@@ -1,4 +1,4 @@
-## General Questions
+# General Questions
 
 ## Signing In
 
