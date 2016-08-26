@@ -62,8 +62,9 @@ public and will not be striked or blocked. Content ID matches will be re-enabled
 on your videos until you choose to re-subscribe, unless you have been subscribed
 for a full 20 months.
 
-## Thank you for supporting and pioneering a new revenue stream for Monstercat
-artists!
+---
+
+Thank you for supporting and pioneering a new revenue stream for Monstercat artists!
 
 Have more questions?
 Please send us any questions or concerns to connect@monstercat.com
