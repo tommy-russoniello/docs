@@ -2,6 +2,12 @@
   This document follows [semantic versioning guidelines](http://semver.org/).
   `PATCH` version bumps are mostly stylistic/structural changes. `MINOR` are
   adjustments and clarifications. `MAJOR` versions bumps are major policy changes.
+  
+# 1.2.1
+
+  October 6, 2016
+  
+  * Removed audio/visual references.
 
 # 1.2.0
 
