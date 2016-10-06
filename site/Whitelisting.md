@@ -43,10 +43,10 @@ No, you will need to fill out your licensing request at https://www.monstercat.c
 Do not fret! When your subscription expires, your videos will still remain public and will not be striked or blocked. Content ID matches will be re-enabled on your videos until you choose to re-subscribe, unless you have been subscribed for a full 20 months.
 
 #### What is your YouTube policy?
-You can read our [YouTube policy here](htts://www.monstercat.com/licensing/youtube-policy)
+You can read our [YouTube policy here](https://www.monstercat.com/licensing/youtube-policy)
 
 #### What is your Twitch policy?
-You can read our [Twitch policy here](htts://www.monstercat.com/licensing/twitch-policy)
+You can read our [Twitch policy here](https://www.monstercat.com/licensing/twitch-policy)
 
 Thank you for supporting and pioneering a new revenue stream for Monstercat artists!
 
