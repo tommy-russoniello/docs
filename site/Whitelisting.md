@@ -1,3 +1,7 @@
+#### How much does it cost?
+YouTube: $10 USD a month, or pre-pay $200 for 20 months  
+Twitch or Beam: $5 USD a month, or pre-pay $100 for 20 months
+
 #### When I first sign up, how long will it take for my channel to be whitelisted? Will all my past Content ID claims be removed?
 
 Your channel will be whitelisted with past Content ID claims removed within 24 hours of subscribing. If for some reason neither were done within 24 hours, please message us and we will sort your issue. Please refrain from uploading any videos until your account shows that you are whitelisted.
