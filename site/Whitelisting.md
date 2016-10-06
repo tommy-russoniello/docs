@@ -1,22 +1,20 @@
-# Whitelisting
-
-## When I first sign up, how long will it take for my channel to be whitelisted? Will all my past Content ID claims be removed?
+#### When I first sign up, how long will it take for my channel to be whitelisted? Will all my past Content ID claims be removed?
 
 Your channel will be whitelisted with past Content ID claims removed within 24 hours of subscribing. If for some reason neither were done within 24 hours, please message us and we will sort your issue. Please refrain from uploading any videos until your account shows that you are whitelisted.
 
-## Can I add more channels after initially subscribing?
+#### Can I add more channels after initially subscribing?
 
 Yes! You can add more channels for additional cost through your account profile.
 
-## What is the benefit of pre-paying 20 months for a channel whitelist?
+#### What is the benefit of pre-paying 20 months for a channel whitelist?
 
 Upon subscribing for 20 months, all your uploaded videos within your subscribed time period are safe from content ID claims even if you unsubscribe. This benefits creators that have been looking to do one-off videos with a specific track. 
 
-## What if I cancel my subscription before 20 months are completed? 
+#### What if I cancel my subscription before 20 months are completed? 
 
 If you end your Whitelist Subscription on a channel that has not been subscribed for 20 months, just like the old model your channel will then be subject to content-ID claims. You can remove those claims by re-subscribing again. 
 
-## I am being warned that a specific track is not available for my Whitelist Subscription. Does this mean I cannot use it in my content?
+#### I am being warned that a specific track is not available for my Whitelist Subscription. Does this mean I cannot use it in my content?
 
 We have a short list of tracks that are not covered under the Monstercat License. You can find the entire list here.
 
