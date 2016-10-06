@@ -1,4 +1,7 @@
 # YouTube Policy
+
+    October 5, 2016. Revision 1.2.0
+
 >MONSTERCAT WILL NOT STRIKE A VIDEO USING OUR PUBLICLY AVAILABLE MUSIC
 >
 >*In the following cases, we will block a video worldwide:  
