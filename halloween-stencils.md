@@ -19,7 +19,7 @@ Make a Monstercat pumpkin! Download these Monstercat Halloween Stencils and brin
 [Download the Monstercat Mouth stencil PDF here.](https://monstercat.com/halloween/Monstercat-Mouth-Pumpkin-Stencil.pdf)
 
 ![Predict Bot](https://monstercat.com/halloween/pumpk-mcat-predict.jpg)
-[Download the Predict Bot stencil PDF here.](https://monstercat.com/halloween/Monstercat-Mouth-Pumpkin-Stencil.pdf)
+[Download the Predict Bot stencil PDF here.](https://monstercat.com/halloween/Monstercat-PredictBot-Pumpkin-Stencil.pdf)
 
 ![Monstercat Logo](https://monstercat.com/halloween/pumpk-mcat-logo.jpg)
-[Download the Monstercat Logo stencil PDF here.](https://monstercat.com/halloween/Monstercat-Mouth-Pumpkin-Stencil.pdf)
+[Download the Monstercat Logo stencil PDF here.](https://monstercat.com/halloween/Monstercat-Cat-Pumpkin-Stencil.pdf)
