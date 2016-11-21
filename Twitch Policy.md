@@ -19,7 +19,7 @@ If Monstercat music accounts for the majority of music used in your stream,
 we ask that you link to
 [http://youtube.com/monstercat](http://youtube.com/monstercat) using a Panel
 with the following
-[image](https://www.monstercat.com/twitch-policy/banners/musicprovidedby-square.png).
+[image](https://www.monstercat.com/img/twitch-music-provided-by-mc.png).
 
 ## Amendments to this policy
 
