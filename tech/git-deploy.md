@@ -43,7 +43,7 @@ if [[ -z $BRANCH || $BRANCH != "staging" && $BRANCH != "production" ]]; then
   exit 0
 fi
 
-echo "$BRANCH updated, lets build!"
+echo "$BRANCH updated, let's deploy!"
 cd  /projects/the-project-$BRANCH
 
 git --git-dir=.git pull local $BRANCH
