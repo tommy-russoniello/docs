@@ -34,7 +34,7 @@ In the cases where you are running services that need to be restarted once you p
 
 In this example below it is assumed that the pushing user has sudo access to deploy. This example also shows a funky setup where there are two instances of it running. One in production and one in staging.
 
-Alternatively to sudo permissions you can try [this](http://askubuntu.com/questions/425754/how-do-i-run-sudo-command-inside-a-script).
+Alternatively to sudo permissions you can try [editing the sudoers file to allow directories permission](http://askubuntu.com/questions/425754/how-do-i-run-sudo-command-inside-a-script).
 
 ```
 #!/usr/bin/env bash
