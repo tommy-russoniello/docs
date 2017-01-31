@@ -1,6 +1,6 @@
 # Deploying Software with Git Hooks
 
-Using the Git hooks "post-update" you can deploy your software with ease. Make sure to read about the Git hooks documentation and how scripts work. 
+Using the Git hooks "post-update" you can deploy your software with ease. Make sure to read about the Git [hooks documentation](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) and how scripts work. 
 
 #### Notices
 
@@ -30,7 +30,9 @@ exit 0
 
 ## Restarting Services
 
-In the cases where you are running services that need to be restarted once you push you can simply execute an additional script that has sudo access. You can look up how to assign sudo access to a particular program/script on the "interwebs".
+In the cases where you are running services that need to be restarted once you push you can simply execute the command like normal. 
+
+In this example below it is assumed that the pushing user has sudo access to deploy. This example also shows a funky setup where there are two instances of it running. One in production and one in staging.
 
 ```
 #!/usr/bin/env bash
@@ -59,5 +61,3 @@ sudo scripts/restart-$BRANCH
 
 exit 0
 ```
-
-This previous example shows a funky setup where there are two instances of it running. One in production and one in staging.
