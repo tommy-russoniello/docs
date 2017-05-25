@@ -1,6 +1,6 @@
 # Content Submission General Conditions 
 
-By submitting a photograph to the Monstercat Inc. (“Monstercat”) website and any related or ancillary services (the “Monstercat Services”), you hereby agree to be bound by the following:
+By submitting a photograph to the Monstercat Inc. ("Monstercat") website and any related or ancillary services (the "Monstercat Services"), you hereby agree to be bound by the following:
 
 ## A. General Conditions
 
@@ -21,4 +21,4 @@ By submitting a photograph to the Monstercat Inc. (“Monstercat”) website and
 
 ## C. Additional Rights
 
-1.	Monstercat shall have the right, but not the obligation, to afford you a credit as creator of the Content by way of displaying your so-called “Instagram handle”, personal website by "URL", or any other "Social Link" provided to Monstercat by you, on Monstercat’s livestream. In connection with the foregoing, you hereby consent to Monstercat’s use of your so-called “Instagram handle”, "URL", or "Social Link" as credit in connection with the license granted hereunder. 
+1.	Monstercat shall have the right, but not the obligation, to afford you a credit as creator of the Content by way of displaying your so-called "Instagram handle", personal website by "URL", or any other "Social Link" provided to Monstercat by you, on Monstercat’s livestream. In connection with the foregoing, you hereby consent to Monstercat’s use of your so-called "Instagram handle", "URL", or "Social Link" as credit in connection with the license granted hereunder. 
