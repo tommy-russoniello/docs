@@ -25,7 +25,7 @@ If you end your Whitelist Subscription on a channel that has not been subscribed
 
 #### I am being warned that a specific track is not available for my Whitelist Subscription. Does this mean I cannot use it in my content?
 
-We have a short list of tracks that are not covered under the Monstercat License. You can find the entire list [here](https://connect.monstercat.com/#handbook/licensing).
+We have a short list of tracks that are not covered under the Monstercat License. You can find the entire list [here](https://www.monstercat.com/non-licensable-tracks).
 
 #### Is crediting required when I have a Whitelist Subscription?
 
