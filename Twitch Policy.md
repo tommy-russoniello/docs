@@ -1,6 +1,6 @@
 # Monstercat Twitch Policy
 
-    July 19, 2017. Revision 1.2.1
+    July 19, 2017. Revision 1.2.2
 
 This policy sets out the open policy for all streaming & VOD content found on
 Twitch using Monstercat's music catalog.
