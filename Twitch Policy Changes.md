@@ -3,6 +3,10 @@
   `PATCH` version bumps are mostly stylistic/structural changes. `MINOR` are
   adjustments and clarifications. `MAJOR` versions bumps are major policy changes.
 
+# 1.2.2
+
+ * Removed crediting image requirement.
+
 # 1.2.1
 
  * Fixed link to crediting image.
