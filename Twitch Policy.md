@@ -17,9 +17,7 @@ If you are not listening to Monstercat FM, we ask that you use XSplit, OBS, or s
 
 If Monstercat music accounts for the majority of music used in your stream,
 we ask that you link to
-[http://youtube.com/monstercat](http://youtube.com/monstercat) using a Panel
-with the following
-[image](https://www.monstercat.com/img/twitch-music-provided-by-mc.png).
+[http://youtube.com/monstercat](http://youtube.com/monstercat).
 
 ## Amendments to this policy
 
