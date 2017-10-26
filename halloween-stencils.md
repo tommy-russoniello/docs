@@ -15,21 +15,21 @@ Make a Monstercat pumpkin! Download these Monstercat Halloween Stencils and brin
 
 ## Files
 
-![Monstercat Mouth](https://monstercat.com/halloween/mcat-pumpk-mouth.jpg)
+![Monstercat Mouth](https://monstercat.com/halloween/mcat-pumpk-mouth.jpg?v=3)
 
 [Download the Monstercat Mouth stencil PDF here.](https://monstercat.com/halloween/stencils/Monstercat-Halloween-Stencil-Mouth.pdf)
 
 
-![Monstercat Logo](https://monstercat.com/halloween/mcat-pumpk-logo.jpg)
+![Monstercat Logo](https://monstercat.com/halloween/mcat-pumpk-logo.jpg?v=3)
 
 [Download the Monstercat Logo stencil PDF here.](https://monstercat.com/halloween/stencils/Monstercat-Halloween-Stencil-Logo.pdf)
 
 
-![Uncaged Vol. 1](https://monstercat.com/halloween/mcat-pumpk-vol-1.jpg)
+![Uncaged Vol. 1](https://monstercat.com/halloween/mcat-pumpk-vol-1.jpg?v=3)
 
 [Download the Monstercat Logo stencil PDF here.](https://monstercat.com/halloween/stencils/Monstercat-Halloween-Stencil-Uncaged-1.pdf)
 
 
-![Uncaged Vol. 2](https://monstercat.com/halloween/mcat-pumpk-vol-2.jpg)
+![Uncaged Vol. 2](https://monstercat.com/halloween/mcat-pumpk-vol-2.jpg?v=3)
 
 [Download the Monstercat Logo stencil PDF here.](https://monstercat.com/halloween/stencils/Monstercat-Halloween-Stencil-Uncaged-2.pdf)
