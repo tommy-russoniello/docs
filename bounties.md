@@ -8,6 +8,9 @@ Any dev may submit a pull request against the `master` branch of that project. T
 
 The first pull request for a bounty issue that is accepted and merged will earn that pull request's author the bounty amount, to be paid via PayPal.
 
+## Code Ownership
+All code submitted that is merged will be owned by Monstercat.
+
 ## Dev Community
 Join the [#dev channel on our Discord](https://discord.gg/9MVbaZM) to chat with other developers from the Monstercat family.
 
