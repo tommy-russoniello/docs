@@ -1,35 +1,62 @@
-*Work in progress. Program not yet live.*
+# Monstercat Bounty Program
 
-# Monstercat Bounty Hunters Program
-The Monstercat Bounty program rewards developers for helping us improve monstercat.com.
+**NOTICE: Program Not Live**
+
+This program rewards developers for contributing to our public software
+development projects.
 
 ## How It Works
-Any [Bounty-labelled GitHub issues](https://github.com/monstercat/deon/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abounty) for monstercat.com are eligible for the bounty program. The reward will be listed in the description of the issue.
 
-Any dev may submit a pull request against the `master` branch of that project. The bounty issue should be referenced in the description of the pull request. 
+Any projects we host publicly on GitHub that have issues with the "[bounty](http
+s://github.com/monstercat/deon/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+labe
+l%3Abounty)" label are eligible to be collected upon. The reward for the bounty
+will be included in the issue's description. Anyone may participate in
+collecting.
 
-The first pull request for a bounty issue that is accepted and merged will earn that pull request's author the bounty amount, to be paid via PayPal.
+To initiate collection of a bounty you must submit a pull request referencing
+the bounty issue you are collecting. Upon approval and merging into the source
+code you are eligible for the reward. Multiple pull requests can be active for
+the same issue; it is up to you to make sure your pull request is easy to review
+and merge.
 
-## Code Ownership
-All code submitted that is merged will be owned by Monstercat.
+Bounty rewards will be only through PayPal. To claim your bounty after gaining
+eligibility for the reward please send us an email with your PayPal information
+using the same email you used to create your git commits.
 
-## Dev Community
-Join the [#dev channel on our Discord](https://discord.gg/9MVbaZM) to chat with other developers from the Monstercat family.
+You will also be eligible to receive the "Bounty Hunter" role on our Discord
+server upon bounty claim and Discord identification proof.
 
-## Code Guide
-JavaScript should follow the [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml).
+## Developer Community
 
-Code should be document with the [JSDoc](http://usejsdoc.org/) format.
+Join the [#dev channel on our Discord](https://discord.gg/9MVbaZM) to chat with
+other developers from the Monstercat community.
 
-Your pull request should pass the `npm test` tests.
+## Software Ownership
 
-## FAQ
+Any code merged into the projects main repositories will be own by Monstercat.
+
+## Writing Guide
+
+All written scripts should follow the existing projects current style of syntax.
+This usually can be found in the README of a project, but if it doesn't exist
+use your best judgment or ask.
+
+Any new software written should not break existing tests and show have
+equivalent tests written for new functionality or missing uses cases that are
+being fixed.
+
+## Frequently Asked Questions
 
 #### Can more than one person work on a bounty?
-Yes. If you are working indepently then the first person to submit a pull request that gets merged will earn the bounty.
+
+Yes. If you are working independently then the first person to submit a pull
+request that gets merged will earn the bounty.
 
 #### Can a team work on a bounty?
-Yes, but only the person who submits the pull request will be paid. It is up to that person to distribute the payment to their team members.
 
-#### How can I run a local version of monstercat.com?
+Yes, but only the person who submits the pull request will be paid. It is up to
+that person to distribute the payment to their team members.
+
+#### How can I run a local version of deon (monstercat.com)?
+
 Use the README here: https://github.com/monstercat/deon
