@@ -1,3 +1,5 @@
+*Work in progress. Program not yet live.*
+
 # Monstercat Bounty Hunters Program
 The Monstercat Bounty program rewards developers for helping us improve monstercat.com.
 
