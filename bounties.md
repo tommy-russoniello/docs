@@ -7,11 +7,9 @@ development projects.
 
 ## How It Works
 
-Any projects we host publicly on GitHub that have issues with the "[bounty](http
-s://github.com/monstercat/deon/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+labe
-l%3Abounty)" label are eligible to be collected upon. The reward for the bounty
-will be included in the issue's description. Anyone may participate in
-collecting.
+Any projects we host publicly on GitHub that have issues with the "[bounty](https://github.com/monstercat/deon/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abounty)" label are eligible to be collected 
+upon. The reward for the bounty will be included in the issue's description. 
+Anyone may participate in collecting.
 
 To initiate collection of a bounty you must submit a pull request referencing
 the bounty issue you are collecting. Upon approval and merging into the source
