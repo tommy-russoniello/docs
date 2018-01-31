@@ -7,19 +7,28 @@ development projects.
 
 ## How It Works
 
-Any projects we host publicly on GitHub that have issues with the "[bounty](https://github.com/monstercat/deon/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abounty)" label are eligible to be collected 
-upon. The reward for the bounty will be included in the issue's description. 
-Anyone may participate in collecting.
+### Finding Bounties
+Any projects we host publicly on GitHub that have issues with the label are eligible to be collected 
+upon. The reward for the bounty will be included in the issue's description.
 
+Existing bounties:
+
+- [View All monstercat.com Bounties](https://github.com/monstercat/deon/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abounty)
+ - Discord New Release Bot - A standalone NodeJS project that will watch for new releases and post them into a Discord channel.
+
+### Submitting Bounties
 To initiate collection of a bounty you must submit a pull request referencing
 the bounty issue you are collecting. Upon approval and merging into the source
 code you are eligible for the reward. Multiple pull requests can be active for
 the same issue; it is up to you to make sure your pull request is easy to review
 and merge.
 
-Bounty rewards will be only through PayPal. To claim your bounty after gaining
+### Collecting Payment
+Bounty rewards will be sent through PayPal in USD. To claim your bounty after gaining
 eligibility for the reward please send us an email with your PayPal information
 using the same email you used to create your git commits.
+
+Payment will only be sent to the person who submits a pull request. If you are working as a team it us up to that person to distribute the funds to their team.
 
 You will also be eligible to receive the "Bounty Hunter" role on our Discord
 server upon bounty claim and Discord identification proof.
