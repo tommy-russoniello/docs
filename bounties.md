@@ -25,7 +25,7 @@ and merge.
 
 ### Collecting Payment
 Bounty rewards will be sent through PayPal in USD. To claim your bounty after gaining
-eligibility for the reward please send us an email with your PayPal information
+eligibility for the reward please send us an email to [bounties@monstercat.com](mailto:bounties@monstercat.com) with your PayPal information
 using the same email you used to create your git commits.
 
 Payment will only be sent to the person who submits a pull request. If you are working as a team it us up to that person to distribute the funds to their team.
