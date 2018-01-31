@@ -35,11 +35,9 @@ Any code merged into the projects main repositories will be own by Monstercat.
 
 ## Writing Guide
 
-All written scripts should follow the existing projects current style of syntax.
-This usually can be found in the README of a project, but if it doesn't exist
-use your best judgment or ask.
+All written scripts should follow [our JS Guide](https://github.com/monstercat/docs/blob/master/js-guide.md).
 
-Any new software written should not break existing tests and show have
+Any new software written should not break existing tests and should have
 equivalent tests written for new functionality or missing uses cases that are
 being fixed.
 
