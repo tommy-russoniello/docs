@@ -11,10 +11,7 @@ development projects.
 Any projects we host publicly on GitHub that have issues with the label are eligible to be collected 
 upon. The reward for the bounty will be included in the issue's description.
 
-Existing bounties:
-
- - [View All monstercat.com Bounties](https://github.com/monstercat/deon/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abounty)
- - Discord New Release Bot - A standalone NodeJS project that will watch for new releases and post them into a Discord channel.
+[View All monstercat.com Bounties](https://github.com/monstercat/deon/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abounty)
 
 ### Submitting Bounties
 To initiate collection of a bounty you must submit a pull request referencing
