@@ -13,7 +13,7 @@ upon. The reward for the bounty will be included in the issue's description.
 
 Existing bounties:
 
-- [View All monstercat.com Bounties](https://github.com/monstercat/deon/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abounty)
+ - [View All monstercat.com Bounties](https://github.com/monstercat/deon/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abounty)
  - Discord New Release Bot - A standalone NodeJS project that will watch for new releases and post them into a Discord channel.
 
 ### Submitting Bounties
