@@ -60,3 +60,7 @@ that person to distribute the payment to their team members.
 #### How can I run a local version of deon (monstercat.com)?
 
 Use the README here: https://github.com/monstercat/deon
+
+#### Can I suggest a bounty?
+
+Yes! If you have a project or improvement you think would make a good bounty you can send it to [bounties@monstercat.com](mailto:bounties@monstercat.com).
