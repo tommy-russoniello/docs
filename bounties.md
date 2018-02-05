@@ -30,7 +30,7 @@ server upon bounty claim and Discord identification proof.
 
 ## Developer Community
 
-Join the [#bounty-hunters channel on our Discord](https://discord.gg/RAx5zTU) to chat with
+Join the [#dev channel on our Discord](https://discord.gg/9MVbaZM) to chat with
 other developers from the Monstercat community.
 
 ## Software Ownership
