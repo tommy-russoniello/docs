@@ -35,7 +35,7 @@ other developers from the Monstercat community.
 
 ## Software Ownership
 
-Any code merged into the projects main repositories will be own by Monstercat.
+Any code merged into the projects main repositories will be owned by Monstercat.
 
 ## Writing Guide
 
