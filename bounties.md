@@ -1,7 +1,5 @@
 # Monstercat Bounty Program
 
-**NOTICE: Program Not Live**
-
 This program rewards developers for contributing to our public software
 development projects.
 
