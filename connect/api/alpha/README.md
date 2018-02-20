@@ -113,10 +113,10 @@ The parameter value is a comma separated pair list.
 This parameter is not available on the `/catalog/browse` route.
 
 
-#### Filter Match
+#### Filters Match
 
-`filter=field,value,field2,value2`
+`filters=field,value,field2,value2`
 
-Specifies searches with exact matching. This is an AND operation. Use `filterOr` for OR operations.  
+Specifies searches with exact matching. Case sensitive. This is an AND operation. Use `filtersOr` for OR operations.  
 The parameter value is a comma separated pair list.  
 This parameter is not available on the `/catalog/browse` route.
