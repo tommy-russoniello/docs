@@ -1,10 +1,27 @@
 # Connect API (Alpha)
 
 Write Date: April 14, 2016  
-Last Update: July 5, 2016  
+Last Update: Feb 20, 2018
 API Version Prefix: `/api`
 
 ## Routes
+
+### GET `/catalog/browse`
+Returns tracks paired with their releases. Tracks that are on two releases will be returned twice.
+
+#### Browse Query Parameters
+
+|Param|Description|
+|:--|:--|
+|search|Does a text search on track title, artists, and albums|
+|playlistId|Will only return tracks on provided playlist|
+|albumId|Only returns tracks found on that album|
+|isrc|Return track with that ISRC|
+|types|Comma separated list of album types. Options: Single, EP, Podcast, Album|
+|genres|Comma separated list of album genres.|
+|tags|Comma separate list of track tags.|
+|sortOn|Field to sort on. Options: `title`, `release` (album title), `bpm`, `time` (track duration), `date` (album release date), `artists` (artistsTitle field)|
+|sortDirection|-1 for descending, 1 for ascending.|
 
 ### GET `/catalog/track` 
 
@@ -69,7 +86,8 @@ Specifiy what fields you wish to recieve by a comma separated string.
 
 `ids=id1,id2`
 
-Specifies specific ids you want to fetch instead of the whole collection.
+Specifies specific ids you want to fetch instead of the whole collection.  
+This parameter is not available on the `/catalog/browse` route.
 
 #### Offset/Skip 
 
@@ -91,11 +109,14 @@ Specifies the number of results you wish to fetch.
 `fuzzy=field,value,field2,value2`
 
 Specifies searches with fuzzy matching. This is an AND operation. Use `fuzzyOr` for OR operations.  
-The parameter value is a comma separated pair list.
+The parameter value is a comma separated pair list.  
+This parameter is not available on the `/catalog/browse` route.
+
 
 #### Filter Match
 
 `filter=field,value,field2,value2`
 
 Specifies searches with exact matching. This is an AND operation. Use `filterOr` for OR operations.  
-The parameter value is a comma separated pair list.
+The parameter value is a comma separated pair list.  
+This parameter is not available on the `/catalog/browse` route.
