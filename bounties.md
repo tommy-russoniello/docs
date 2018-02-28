@@ -1,7 +1,9 @@
-# Monstercat Bounty Program
+# Monstercat Bounty Hunter Program
 
 This program rewards developers for contributing to our public software
 development projects.
+
+![](https://assets.monstercat.com/bountycat.png?image_width=128)
 
 ## How It Works
 
