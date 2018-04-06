@@ -1,5 +1,3 @@
-## Frequently Asked Questions
-
 #### I want to use Monstercat's music in my videos/streams. What are the basics I need to know?
 When using our music in your videos/streams, creators **must** abide by the following terms, (whether you have a license or not):
 
