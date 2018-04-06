@@ -4,10 +4,10 @@ When using our music in your videos/streams, creators **must** abide by the foll
   - No Nightcore versions of our tracks
   - No Bass Boosted or otherwise altered versions of our tracks
   - No looping of our tracks (1 hour, 10 hour, etc.)
-  - No uploads of tracks that have not yet been officially uploaded on our [Monstercat](https://www.youtube.com/channel/UCJ6td3C9QlPO9O_J5dF4ZzA) channel
+  - No uploads of tracks that have not yet been officially uploaded on one of our channels: [Monstercat: Uncaged](https://www.youtube.com/channel/UCJ6td3C9QlPO9O_J5dF4ZzA) or [Monstercat: Instinct](https://www.youtube.com/channel/UCp8OOssjSjGZRVYK6zWbNLg)
   - No file sharing links or free downloads of any kind may be provided
   - Users are not permitted to use our registered Monstercat word or design trademarks as their channel name or icon
-  - Creators may not use tracks excluded from the licensing offering - list [here](https://www.monstercat.com/non-licensable-tracks)
+  - Creators may not monetize tracks excluded from the licensing offering - list [here](https://www.monstercat.com/non-licensable-tracks)
   - Users must abide by and follow all [YouTube Terms of Service](https://www.youtube.com/t/terms) and [Community Guidelines](https://www.youtube.com/yt/about/policies/#community-guidelines)
 
 #### Can I purchase a license for my music promotion channel?
@@ -16,7 +16,7 @@ Music promotion channels of any sort are not eligible to purchase our license bu
 #### How do I get the music?
 For streamers seeking background music you can listen to our music directly from [Monstercat.com](https://www.monstercat.com/music), our [Twitch channel](https://www.twitch.tv/monstercat), [YouTube channel](https://www.youtube.com/monstercat), or use your preferred music app.
 
-For those wanting to download our music you can purchase [Monstercat Gold](https://www.monstercat.com/gold) for $5/mo to get full download access to our catalog, as well as early streaming access to new songs.
+For those wanting to download our music you can purchase **[Monstercat Gold](https://www.monstercat.com/gold)** for $5/mo to get full download access to our catalog, as well as early streaming access to new songs.
 
 #### How much does a license cost, and how long do they last?
 Our Content Creator Licenses last for 20 months at a time. Payments for our licenses work in 2 ways:
@@ -33,10 +33,10 @@ If you cancel before the 20 months, the videos you uploaded during the time you 
 No, our licenses are per platform, per account/channel. For example, if you have a Twitch and YouTube account, you will need 2 separate licenses. 
 
 #### With a Content Creator License, can I include Monstercat music in an advertisement or video with a paid product placement?
-No, this would be considered commercial use and the sponsoring company would need to purchase a Commercial License.
+No, this would be considered commercial use and the sponsoring company would need to purchase a [Commercial License](https://www.monstercat.com/sync).
 
 #### As a corporate entity, am I allowed to take advantage of the Content Creator License?
-No, you will need to fill out your licensing request [here](https://www.monstercat.com/licensing/commercial) and our Publishing team will get back to you with a quote for Commercial Licensing. Content Creators may also license individual tracks through our Commercial Licensing if they prefer.
+No, you will need to fill out your licensing request [here](https://www.monstercat.com/sync) and our Publishing team will get back to you with a quote for Commercial Licensing. Content Creators may also license individual tracks through our Commercial Licensing if they prefer.
 
 ---
 
@@ -92,10 +92,10 @@ The best option to do so would be to search for prepaid credit cards online and 
 
 #### What is Monstercat Gold?
 Our [Monstercat Gold](https://www.monstercat.com/gold) subscription for $5/month gives you access to download our entire catalog in a format of your choosing - MP3, WAV or FLAC.
-It also gives subscribers early streaming access (20 hrs prior) to our new releases, access to a private Discord Chat, subreddit flair, as well as the guarantee that our artists will be getting fairly compensated.
+It also gives subscribers early streaming access (20 hrs prior) to our new releases, discounts in the shop, access to a private Discord Chat, subreddit flair, as well as the guarantee that our artists will be getting fairly compensated.
 
 Our catalog only contains songs that are released on our label, so even though we may have an artist listed, it doesn't mean that all of their songs will be available through our website.
 If you choose to end or cancel your subscription, you will still have the tracks that you downloaded while you still had your subscription active.
 
 #### How do I download FLAC/WAV formats with Monstercat Gold?
-In order to choose your prefered download format, go to the "Account" Tab and edit your "Preferred Download Format" under Settings.
+In order to choose your prefered download format, go to the [Account](https://www.monstercat.com/account) page and edit your "Preferred Download Format" under Settings.
