@@ -14,7 +14,7 @@ Immediate Notes
 *   Do not use single letter variable names, execpt for iterators.
 *   Use camel casing for all variable and method names. Dictionaries and remote  
     data sources need not apply.
-*   Do not use semi-colons `;`.
+*   Do not use semicolons `;`.
 *   Constant variables should be declared with `const` and in uppercase.
 *   Use returns to escape if statement fatigue.
 *   Never write more than one callback scope. If you need to chain use a library.
@@ -30,17 +30,17 @@ Spacing
 *   Use **2 spaces per tab**.
 *   Use a space between operators.
 *   Use a space or newline between brace content.
-*   Do not use a space between parenthesis.
-*   Use a space before and after method parenthesis.
-*   Use a space before and after if and switch statement parenthesis.
-*   Do not use single line if statements
+*   Do not use a space between parentheses.
+*   Use a space before and after method parentheses.
+*   Use a space before and after if and switch statement parentheses.
+*   Do not use single line if statements.
 
 Anonymous Functions
 -------------------
 
 *   Only use arrow (`=>`) anonymous functions.
 *   Should be inline or single line.
-*   If you need an anonymous function make it a regular named function in the  
+*   If you need an anonymous function, make it a regular named function in the  
     appropriate scope or make it a higher level method. This will save you from  
     tracking down anonymous function debug calls.
 
@@ -50,7 +50,7 @@ Error Handling
 *   Always handle errors.
 *   Never use try/catch unless it's for a native API call or an unmodifiable  
     library.
-*   If your method needs to return more than one type for the error return the  
+*   If your method needs to return more than one type for the error, return the  
     values as an array where the first value is always an error or null and the  
     rest are the possible results. Use destructuring expansion to pull values.
 
@@ -99,10 +99,10 @@ Documentation
 
 Use JSDocs formating and document every named method.
 
-*   If you can't imply what a function does by it's name then write a  
+*   If you can't imply what a function does by its name, write a  
     description.
 *   Do not include the method name in the documentation.
-*   Always include parameters and return data types if any.
+*   Always include parameters and return data types, if any.
 
 Example
 -------
