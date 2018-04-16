@@ -1,13 +1,16 @@
 # Connect API (Alpha)
 
 Write Date: April 14, 2016  
-Last Update: Feb 20, 2018
-API Version Prefix: `/api`
+Last Update: April 14, 2018
+
+Base URL: `https://connect.monstercat.com/api`
 
 ## Routes
 
-### GET `/catalog/browse`
-Returns tracks paired with their releases. Tracks that are on two releases will be returned twice.
+### /catalog/browse
+**GET**
+Returns tracks paired with their releases.
+Tracks that are on two releases will be returned twice.
 
 #### Browse Query Parameters
 
@@ -23,49 +26,81 @@ Returns tracks paired with their releases. Tracks that are on two releases will 
 |sortOn|Field to sort on. Options: `title`, `release` (album title), `bpm`, `time` (track duration), `date` (album release date), `artists` (artistsTitle field)|
 |sortDirection|-1 for descending, 1 for ascending.|
 
-### GET `/catalog/track` 
-
-Gets all tracks. You can use default collection query options.
+### /catalog/track
+**GET**
+Returns all tracks - you can use default collection query options.
 
 **WARNING**
-> Even though this route is publicly available it may not be available in future releases.
+> Even though this route is publicly available, it may not be available in future releases.
 > It is advised to fetch releases and their tracks. See below.
 
-### GET `/catalog/track/:id` 
+### /catalog/track/:id
+**GET**
+Returns a track by id.
 
-Gets a track by id.
+### /catalog/release
+**GET**
+Returns all releases - you can use default collection query options
 
-### GET `/catalog/release` 
+### /catalog/release/:catalog_id
+**GET**
+Returns a release by id OR catalog id
 
-Gets all releases. You can use default collection query options.
+### /catalog/release/:id/tracks
+**GET**
+Returns tracks for a release - you can use default collection query options
 
-### GET `/catalog/release/:catalog_id` 
+### /catalog/artist
+**GET**
+Returns all artists - you can use default collection query options
 
-Gets a release by id OR catalog id.
+### /catalog/artist/:vanity_uri
+**GET**
+Returns an artist by id or their vanity URI
 
-### GET `/catalog/release/:id/tracks` 
+### /catalog/artist/:vanity_uri/releases
+**GET**
+Returns an artists releases
 
-Gets you tracks for a release. You can use default collection query options.
+### /playlist
+*Requires you to be logged in!*
 
-### GET `/catalog/artist`
+**GET**
+Returns your playlists
 
-Gets you artists.
+**POST**
+Create a new playlist
+`{"name":"New Playlist","tracks":[]}`
 
-### GET `/catalog/artist/:vanity_uri`
+**PUT**
+Add a track to a playlist
+`{"_id":"56290bf0ddd2cfb810eddae9","name":"Valkyrie","userId":"55fc1f7d53c399fc274c5054","deleted":false,"public":false,"tracks":[{"trackId":"53a0c93640cc048e26f848e6","releaseId":"53a897d07f9a812a0d96bbdc"},{"trackId":"542f2c17502836c00e5be117","releaseId":"542f2bac502836c00e5be116"},{"trackId":"5614507cc5df9f40201f85ed","releaseId":"561c5da57fb673586a3d2a98"},{"trackId":"56e0a83280a64c6105fcc8ec","releaseId":"57083d7e85ff0545443034e3","startTime":0}]}`
 
-Gets you an artist by id or their vanity URI
+### /playlist/:id
+*Requires you to be logged in!*
 
-### GET `/catalog/artist/:vanity_uri/releases`
+**PUT**
+Rename playlist or make it public
+`{"_id":"5725bc898fcb2ef579fe5f9d","name":"New Playlist Name","userId":"55fc1f7d53c399fc274c5054","deleted":false,"public":false,"tracks":[]}`
 
-Gets you an artists releases.
+**DELETE**
+Delete this playlist
 
-### GET `/playlist` 
+### /playlist/:id/tracks
+**GET**
+Returns tracks for a playlist - you can use default collection query options
 
-Gets you a playlist that is publicly available.
+### /self
+*Requires you to be logged in!*
 
-### GET `/playlist/:id/tracks` 
+**GET**
+Returns information about your account
 
-Gets you tracks for a playlist. You can use default collection query options.
+### /self/session
+*Requires you to be logged in!*
+
+**GET**
+Returns information about your current session
 
 ## Query Options
 
@@ -77,10 +112,10 @@ Query options are simple URL query string key values.
 
 `fields=a,b,c`
 
-Specifiy what fields you wish to recieve by a comma separated string.
+Specifies the fields you wish to receive by a comma separated string.
 
 **WARNING**
-> Some fields are manatory and will appear anyways.
+> Some fields are mandatory and will appear anyways.
 
 #### Identifiers 
 
