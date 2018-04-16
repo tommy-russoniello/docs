@@ -1,58 +1,42 @@
-JavaScript Writing Guide
-========================
+# JavaScript Writing Guide
 
 **NOTICE: This document is prone to change after convincing arguments.**
 
-This guide is the required style of writing JavaScript for my related projects.
+## Project Guide
 
-Immediate Notes
----------------
+ * Follow the projects .eslint file
+ * Do not use transpilers
+ * Do not use minifiers, use gzip instead and comment strippers
+ * Use argparse over environment variables
+ * Do not use unnessary build tools, shell scripts do 99% of what they can do
 
-*   Do not use transpilers.
-*   Do not use minifiers, use gzip instead and comment strippers.
-*   Method names should be self explanatory.
-*   Do not use single letter variable names, execpt for iterators.
-*   Use camel casing for all variable and method names. Dictionaries and remote  
-    data sources need not apply.
-*   Do not use semicolons `;`.
-*   Constant variables should be declared with `const` and in uppercase.
-*   Use returns to escape if statement fatigue.
-*   Never write more than one callback scope. If you need to chain use a library.
-*   Use expansion loading for including methods instead of requiring entire  
-    libraries.
-*   Never return multiple types from a function.
-*   When writing tools always use an argparse library.
+### Packages
 
-Spacing
--------
+ * Install from git repo URL with hash
+ * Look for stable packages without any or many dependencies
+ * Copy and paste code if you only require small sections or snippets,
+   provide link back to origin
+ * Do not install packages which require native building
 
-*   Use **spaces** instead of tab characters.
-*   Use **2 spaces per tab**.
-*   Use a space between operators.
-*   Use a space or newline between brace content.
-*   Do not use a space between parentheses.
-*   Use a space before and after method parentheses.
-*   Use a space before and after if and switch statement parentheses.
-*   Do not use single line if statements.
+## Writing Guide
 
-Anonymous Functions
--------------------
+ * Method and variable names should be self explanatory and not hide intentions
+ * Do not use single letter variable names, exception for iterators
+ * Use async libraries and break down your methods to escape callback hell
+ * Use expansion loading of library methods when possible
 
-*   Only use arrow (`=>`) anonymous functions.
-*   Should be inline or single line.
-*   If you need an anonymous function, make it a regular named function in the  
-    appropriate scope or make it a higher level method. This will save you from  
-    tracking down anonymous function debug calls.
+### Anonymous Functions
 
-Error Handling
---------------
+ * Use arrow functions or don't be anonymous (name it)
+ * Use for quick and easy such as array mapping, filter, etc. or request callbacks
+ * Binding arguments is preferred over long anonymous functions that require scope variables
 
-*   Always handle errors.
-*   Never use try/catch unless it's for a native API call or an unmodifiable  
-    library.
-*   If your method needs to return more than one type for the error, return the  
-    values as an array where the first value is always an error or null and the  
-    rest are the possible results. Use destructuring expansion to pull values.
+### Error Handling
+
+ * Always handle errors
+ * Only use throwing & try, catch when need be
+ * Instead of throwing an error you can return an array or object which can be destructured.
+   This allows similar style of multiple return value handling such as in golang or python
 
 **Example**
 
@@ -77,35 +61,18 @@ Error Handling
       console.log("It worked:", result)
     }
 
-Quoting
--------
+### Strings
 
-Use double quotes (") for text, grave accent (`) for multi line text,  
-otherwise single quote (').
+Use (\`) over (") over ('). Other than that it will be okay.
 
-Packages
---------
+### Documentation
 
-*   Only install packages from git repositories with a hashed URL.
-*   Use packages that do not have a lot of dependencies.
-*   Copy and paste simple methods instead of downloading as a package. Add  
-    documentation of where you found it.
-*   Do not install packages that require native build-able dependencies.
-*   Do not use global packages for projects.
-*   Do not use unnecessary build tools such as Gulp, WebPack, Browserify, etc.
+ * Use JSDocs
+ * All exported methods should be documented
+ * If you can't imply everything a method does by it's name, describe it
+ * Always include parameters and return types, undefined is assumed
 
-Documentation
--------------
-
-Use JSDocs formating and document every named method.
-
-*   If you can't imply what a function does by its name, write a  
-    description.
-*   Do not include the method name in the documentation.
-*   Always include parameters and return data types, if any.
-
-Example
--------
+**Example**
 
     const IS_ON = true
     const MEANINGFUL_DATE = 1516853925696
