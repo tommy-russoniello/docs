@@ -9,13 +9,13 @@ Your access to and use of the Service is conditioned on your acceptance of and c
 
 By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.
 
-### Eligibility
+**Eligibility**  
 It is an offence for raffle entries to be sold to, or by, a person under 18 years of age in the United States. If anyone is found to be under 18 and live in the United States, they will automatically forfeit their right to a prize.  
 Subscribers of the Gold platform on Monstercat.com/gold who have joined the “Gold Only Discord Channel” need only react to the giveaway post of the day. If you are not a Gold subscriber, you can join the subscription for your chance to enter the giveaway, or you can enter an alternative way with no subscription.  
 No Purchase Necessary. If you do not wish to become a Gold subscriber to enter, an alternative method of entry can be accomodated. Simply send an email to tabitha@monstercat.com with 250 words on why you’re the biggest Monstercat fan, please include your age and location in your email as it is illegal in the United States for giveaway entries to be sold to a person under the age of 18.  
 Employees (or family members of employees) of any group company of Monstercat, companies associated with the Promotion and all affiliates of such companies may not enter this Promotion.
 
-### Winner selection and notification
+**Winner selection and notification**  
 There will be one winner chosen at random 20 hours after each raffle launches. Winner will be notified via Discord direct message or email depending on their method of entry. Upon notification, any winners in the United States will need to state their age to be verified they are eligible for winning. Anyone found to be under the age of 18 will forfeit their winnings and a runner up will be notified.  
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time.  
 If you have any questions about these Terms, please contact us.
