@@ -1,4 +1,4 @@
-Terms and Conditions ("Terms")
+# Terms and Conditions ("Terms")
 
 *Last updated: (August 21, 2018)*
 
