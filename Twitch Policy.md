@@ -2,7 +2,7 @@
 
     Jan 27, 2019. Revision 1.2.3
 
-This policy sets out9the open policy for all streaming & VOD content found on
+This policy sets out the open policy for all streaming & VOD content found on
 Twitch using Monstercat's music catalog.
 
 ## VOD
@@ -10,8 +10,6 @@ We will not mute VODs that contain Monstercat's music. While Twitch's Audio Reco
 
 ## Streaming
 If you include Monstercat in your streams we ask that you [purchase a Twitch whitelist license](http://www.monstercat.com/account/services/?vendor=twitch).
-
-You can tune into our Monstercat FM channel during your Twitch streams without your VODs being muted, but please include our track listing bot in your channel by typing `!join` on the Monstercat FM channel at [http://www.twitch.tv/monstercat](http://www.twitch.tv/monstercat)
 
 If you are not listening to Monstercat FM, we ask that you use XSplit, OBS, or similar tools to show your audience which songs are being streamed live.
 
