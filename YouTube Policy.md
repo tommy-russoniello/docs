@@ -1,6 +1,6 @@
 # YouTube Policy
 
-    October 6, 2016. Revision 1.2.1
+    June 12th, 2020. Revision 1.2.2
 
 >MONSTERCAT WILL NOT STRIKE A VIDEO USING OUR PUBLICLY AVAILABLE MUSIC
 >
@@ -20,8 +20,7 @@
 
 >A Content ID claim will automatically be applied to videos using our music. This guarantees that the original musician fairly receives a percentage of the advertising earnings of the claimed videos.
 
->Some people have been counter-claiming these automated claims. If you do not have a license then we ask that you do not counter-claim. We will have to hand out a strike if a claim is counter-claimed repeatedly. This is only fair to the original artists.
-
+>Some people have been counter-claiming these automated claims. If you do not have a license then we ask that you do not counter-claim.
 
 ## Using Monstercat Music in Your Videos
 
