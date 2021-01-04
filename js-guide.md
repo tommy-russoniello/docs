@@ -70,7 +70,7 @@ Use (\`) over (") over ('). Other than that it will be okay.
  * Use JSDocs
  * Do not include name of method, it's pointless, unhelpful, and a waste of space
  * All exported methods should be documented
- * If you can't imply everything a method does by it's name, describe it
+ * If you can't imply everything a method does by its name, describe it
  * Always include parameters and return types, undefined is assumed
 
 **Example**

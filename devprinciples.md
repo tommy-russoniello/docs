@@ -5,7 +5,7 @@
 3. Never ignore errors unless it is the intended effect. Account for errors by providing defaults or presenting appropriate output.
 4. Ensure your code is simple; continually think about how you can further simplify and abstract your code.
 5. Spend the time to build great tools to help you make your project better.
-6. You are your own best tester; never allow anyone else to experience bugs from your code or seethe product crash. Test thoroughly before committing your code so you do not waste others' time.
+6. You are your own best tester; never allow anyone else to experience bugs from your code or see the product crash. Test thoroughly before committing your code so you do not waste others' time.
 7. Once you see a bug, stop working and fix it. Stability and reliability are not built on a broken foundation.
 8. Ensure your code is optimized and effective, it should be able to run in multiple environments without fail.
 9. Write your code for this project only – not a future project. "You will be writing new code later because you will be smarter."

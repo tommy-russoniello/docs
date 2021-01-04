@@ -2,6 +2,10 @@
   This document follows [semantic versioning guidelines](http://semver.org/).
   `PATCH` version bumps are mostly stylistic/structural changes. `MINOR` are
   adjustments and clarifications. `MAJOR` versions bumps are major policy changes.
+
+# 1.2.3
+  June 12 2020
+  * Removed line about copyright strikes
   
 # 1.2.1
 
